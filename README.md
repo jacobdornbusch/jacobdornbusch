@@ -5,7 +5,8 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/jacobdornbusch/azure-honey-net)  
 - <b>Python Projects</b>
-  - [Port Scanner Proof of Concept](https://github.com/jacobdornbusch/python-port-scanner-proof-of-concept) 
+  - [Port Scanner (Proof of Concept)](https://github.com/jacobdornbusch/python-port-scanner-proof-of-concept) 
+  - [File Integrity Monitor (FIM)](https://github.com/jacobdornbusch/python-file-integrity-monitor) 
 
 <h2> 🤳 Connect with me:</h2>
 
