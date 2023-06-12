@@ -4,8 +4,8 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/jacobdornbusch/azure-honey-net)  
-- <b>Software Development Projects</b>
-  - [Port Scanner Proof of Concept (Python)](https://github.com/jacobdornbusch/python-port-scanner-proof-of-concept) 
+- <b>Python Projects</b>
+  - [Port Scanner Proof of Concept](https://github.com/jacobdornbusch/python-port-scanner-proof-of-concept) 
 
 <h2> 🤳 Connect with me:</h2>
 
