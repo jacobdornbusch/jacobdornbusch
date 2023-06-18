@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jacob, a <a href="https://www.flairdevelopergroup.com">Web Developer</a> and<a href="https://www.linkedin.com/in/jacobdornbusch/"> IT Professional</h1>
+<h1>Hi, I'm Jacob!<br/><a href="https://www.linkedin.com/in/jacobdornbusch/">IT Professional</a> and<a href="https://www.flairdevelopergroup.com"> Web Developer</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
