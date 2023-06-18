@@ -3,11 +3,12 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/jacobdornbusch/azure-honey-net)  
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/jacobdornbusch/azure-honey-net)
+  - [Resume Website with Azure Functions API](https://github.com/jacobdornbusch/azure-resume)
 - <b>Python Projects</b>
   - [Port Scanner (Proof of Concept)](https://github.com/jacobdornbusch/python-port-scanner-proof-of-concept) 
   - [File Integrity Monitor (FIM)](https://github.com/jacobdornbusch/python-file-integrity-monitor)
-  - [Password Generation Utility](https://github.com/jacobdornbusch/python-password-generator) 
+  - [Password Generation Utility](https://github.com/jacobdornbusch/python-password-generator)
 
 <h2> 🤳 Connect with me:</h2>
 
